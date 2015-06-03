@@ -1,0 +1,21 @@
+.wrapper {
+	position: relative;
+	width: 200px;
+	margin: 100px auto;
+}
+
+#icon {
+	background-image: url(/img/keywd.png);
+	background-size: contain;
+	width: 128px;
+	height: 128px;
+}
+#marker {
+	position: absolute;
+	background-image: url(/img/marker.png);
+	background-size: contain;
+	width: 64px;
+	height: 64px;
+	bottom: 0;
+	right: 60px;
+}
